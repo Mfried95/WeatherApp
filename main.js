@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Toronto");
+  weather.fetchWeather("Tokyo");
